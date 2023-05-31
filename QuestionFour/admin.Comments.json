@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6476811b6300958d03cd4cf7"
+  },
+  "comment_id": "987654",
+  "post_id": "123456",
+  "content": "Great article! I really enjoyed reading it.",
+  "author": "Jane Smith",
+  "date": {
+    "$date": "2023-05-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "647681246300958d03cd4cf8"
+  },
+  "comment_id": "987654",
+  "post_id": "123456",
+  "content": "Great article! I really enjoyed reading it.",
+  "author": "Jane Smith",
+  "date": {
+    "$date": "2023-05-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6476823b6300958d03cd4cf9"
+  },
+  "comment_id": "987654",
+  "post_id": "123456",
+  "content": "Great article! I really enjoyed reading it.",
+  "author": "Jane Smith",
+  "date": {
+    "$date": "2023-05-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64777deb3c17cfdee9115a29"
+  },
+  "comment_id": "987654",
+  "post_id": "123456",
+  "content": "Great article! I really enjoyed reading it.",
+  "author": "Jane Smith",
+  "date": {
+    "$date": "2023-05-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64777df83c17cfdee9115a2a"
+  },
+  "comment_id": "987654",
+  "post_id": "123456",
+  "content": "Great article! I really enjoyed reading it.",
+  "author": "Jane Smith",
+  "date": {
+    "$date": "2023-05-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64777dfd3c17cfdee9115a2b"
+  },
+  "comment_id": "987654",
+  "post_id": "123456",
+  "content": "Great article! I really enjoyed reading it.",
+  "author": "Jane Smith",
+  "date": {
+    "$date": "2023-05-31T00:00:00.000Z"
+  }
+}]

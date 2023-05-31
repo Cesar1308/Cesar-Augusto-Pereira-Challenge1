@@ -1,0 +1,32 @@
+{
+    "_id" : ObjectId("647680f844b0937d700bb689"),
+    "post_id" : "123456",
+    "title" : "Introduction to NoSQL Databases",
+    "content" : "In this blog post, we will explore the concept of NoSQL databases...",
+    "author" : "John Doe",
+    "date" : ISODate("2023-05-30T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("6476823f44b0937d700bb68a"),
+    "post_id" : "123456",
+    "title" : "Introduction to NoSQL Databases",
+    "content" : "In this blog post, we will explore the concept of NoSQL databases...",
+    "author" : "John Doe",
+    "date" : ISODate("2023-05-30T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("6476824144b0937d700bb68b"),
+    "post_id" : "123456",
+    "title" : "Introduction to NoSQL Databases",
+    "content" : "In this blog post, we will explore the concept of NoSQL databases...",
+    "author" : "John Doe",
+    "date" : ISODate("2023-05-30T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("6476824a44b0937d700bb68c"),
+    "post_id" : "123456",
+    "title" : "Introduction to NoSQL Databases",
+    "content" : "In this blog post, we will explore the concept of NoSQL databases...",
+    "author" : "John Doe",
+    "date" : ISODate("2023-05-30T00:00:00.000+0000")
+}

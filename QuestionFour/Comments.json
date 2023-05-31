@@ -1,0 +1,32 @@
+{
+    "_id" : ObjectId("647681196300958d03cd4cf6"),
+    "comment_id" : "987654",
+    "post_id" : "123456",
+    "content" : "Great article! I really enjoyed reading it.",
+    "author" : "Jane Smith",
+    "date" : ISODate("2023-05-31T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("6476811b6300958d03cd4cf7"),
+    "comment_id" : "987654",
+    "post_id" : "123456",
+    "content" : "Great article! I really enjoyed reading it.",
+    "author" : "Jane Smith",
+    "date" : ISODate("2023-05-31T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("647681246300958d03cd4cf8"),
+    "comment_id" : "987654",
+    "post_id" : "123456",
+    "content" : "Great article! I really enjoyed reading it.",
+    "author" : "Jane Smith",
+    "date" : ISODate("2023-05-31T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("6476823b6300958d03cd4cf9"),
+    "comment_id" : "987654",
+    "post_id" : "123456",
+    "content" : "Great article! I really enjoyed reading it.",
+    "author" : "Jane Smith",
+    "date" : ISODate("2023-05-31T00:00:00.000+0000")
+}
