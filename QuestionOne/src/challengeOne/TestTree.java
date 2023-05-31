@@ -31,7 +31,7 @@ public class TestTree {
         ricardo.spouse(new Person("Debora"));
         wilma.addChild(ricardo);
 
-        wilma.addChild(new Person("Rodrigo"));
+        wilma.addChild(new Person("\n\t\tRodrigo"));
 
         Person sigrid = new Person("Sigrid");
         sigrid.spouse(new Person("Peter"));
